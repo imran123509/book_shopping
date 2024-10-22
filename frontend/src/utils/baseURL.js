@@ -1,5 +1,5 @@
 const getBaseUrl = () => {
-    return "https://book-shopping-backend.vercel.app/"
+    return "http://localhost:5000"
 }
 
 export default getBaseUrl;
